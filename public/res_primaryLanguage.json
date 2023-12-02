@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Michelangelo Ascalon. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Michelangelo Ascalon.  Greetings! I'm a dedicated Full Stack Developer with a passion for crafting seamless digital experiences. With 8 years of military service in the US Army and still serving presently in the WA National Guard, my background as a dental hygienist and a Non Commision Officer in the Army instilled discipline and attention to detail—qualities I bring to my coding endeavors. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,8 +11,8 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Digital Cigar Vault",
+        "startDate": "2023",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
