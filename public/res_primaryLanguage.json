@@ -22,16 +22,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-github-original",
+            "name": "GitHub"
           }
         ]
       },
@@ -47,7 +47,7 @@
         "technologies": [
           {
             "class": "devicon-css3-plain-wordmark",
-            "name": "React"
+            "name": "CSS"
           },
           {
             "class": "devicon-javascript-plain",
@@ -56,26 +56,26 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "Galley of Horns",
+        "startDate": "2023",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          
+          "/images/portfolio/dcv/galleryofHorns.png"
         ],
-        "url": "https://github.com",
+        "url": "https://galleryofhorns1.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original colored",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "VS Code"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-github-original",
+            "name": "GitHub"
           }
         ]
       }
