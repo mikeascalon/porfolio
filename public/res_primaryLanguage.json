@@ -3,8 +3,8 @@
       "description_header": "Hi",
       "description": "👋 I'm Michelangelo Ascalon.  Greetings! I'm a dedicated Full Stack Developer with a passion for crafting seamless digital experiences. With 8 years of military service in the US Army and still serving presently in the WA National Guard, my background as a dental hygienist and a Non Commision Officer in the Army instilled discipline and attention to detail—qualities I bring to my coding endeavors. ",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
+        "about": "About Me",
+        "projects": "Project",
         "skills": "Skills",
         "experience": "Experience"
       }
@@ -13,7 +13,7 @@
       {
         "title": "Digital Cigar Vault",
         "startDate": "2023",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The vision of this product is to provide users with a personalized and efficient way to track and manage their inventory of items such as cigars, wine, or groceries",
         "images": [
           "images/portfolio/dcv/screenshotDCV.png",
           "images/portfolio/dcv/ScreenshotDCV-Inventory.png",
@@ -38,7 +38,7 @@
       {
         "title": "Salmon Cookies",
         "startDate": "2023",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": " :)",
         "images": [
           "/images/portfolio/dcv/salmoonCookiesHome.png",
           "public/images/portfolio/dcv/salmooncookiesSales.png"
@@ -46,8 +46,8 @@
         "url": "https://mikeascalon.github.io/classLab06/index.html",
         "technologies": [
           {
-            "class": "devicon-css3-plain-wordmark",
-            "name": "CSS"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-javascript-plain",
@@ -58,7 +58,7 @@
       {
         "title": "Galley of Horns",
         "startDate": "2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "   ",
         "images": [
           
           "/images/portfolio/dcv/galleryofHorns.png"
@@ -71,7 +71,7 @@
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "VS Code"
+            "name": "JavaScript"
           },
           {
             "class": "devicon-github-original",

@@ -1,48 +1,49 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Michelangelo Ascalon. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Mabuhay",
+      "description": "👋 Mabuhay ako po si  Michelangelo Ascalon. Magandang araw! Ako ay isang tapat na Full Stack Developer na may pagmamahal sa pagbuo ng makinis na digital na mga karanasan. Sa 8 taon na paglilingkod sa militar ng US Army at patuloy na naglilingkod sa kasalukuyan sa WA National Guard, ang aking karanasan bilang dental hygienist at bilang isang Non-Commissioned Officer sa Army ay nagtanim ng disiplina at pansin sa detalye—mga katangiang dala ko sa aking mga proyektong pagsusulat ng kodigo.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Tungkol sa Akin",
+        "projects": "PProyekto",
+        "skills": "kakayahan",
+        "experience": "Karanasan"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Digital Cigar Vault",
+        "startDate": "2023",
+        "description": " Ang pangitain ng produktong ito ay upang magbigay ng mga gumagamit ng isang personalisadong at epektibong paraan upang subaybayan at pamahalaan ang kanilang imbentaryo ng mga items tulad ng sigarilyo, alak, o grocery.  ",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/dcv/screenshotDCV.png",
+          "images/portfolio/dcv/ScreenshotDCV-Inventory.png",
+          "images/portfolio/dcv/ScreenshotDCVTRACKER.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-css3-plain-wordmark",
+            "name": "CSS"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-github-original",
+            "name": "GitHub"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Salmon Cookies",
+        "startDate": "2023",
+        "description": ":)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "/images/portfolio/dcv/salmoonCookiesHome.png",
+          "public/images/portfolio/dcv/salmooncookiesSales.png"
         ],
-        "url": "https://github.com",
+        "url": "https://mikeascalon.github.io/classLab06/index.html",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,62 +56,44 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Galley of Horns",
+        "startDate": "2023",
+        "description": "    ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "/images/portfolio/dcv/galleryofHorns.png"
         ],
-        "url": "https://github.com",
+        "url": "https://galleryofhorns1.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original colored",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-github-original",
+            "name": "GitHub"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Code Fellows",
+        "title": "Estudyante",
+        "years": "2023- Kasalukuyan ",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "CSS",
+          "HTML"
         ]
       }
+     
     ]
   }
